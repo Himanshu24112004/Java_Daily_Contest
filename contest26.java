@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+ class Solution {
     
     long baseEnergy;
     
@@ -20,7 +20,7 @@ public class Solution {
     double add(double x,double y){
         return x+y+baseEnergy;
     }
-    
+} 
 public class contest26 {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
